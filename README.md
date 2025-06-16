@@ -12,7 +12,8 @@ This repository contains a collection of Python basic learning materials. The fi
 - `about_string` – String manipulation in Python
 - `about_tuples_&_set` – Introduction to tuples & sets
 - `read_write_file` – File read-write operations
-- `ctrlflow.py` – Examples of flow control: if, for, while, etc.
+- `ctrlflow.py` – Examples of flow control: if, for, while
+- `about_OOP` -Learns Object Oriented Programming concepts
 
 ## 🎯 Purpose
 

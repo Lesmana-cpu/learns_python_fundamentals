@@ -1,4 +1,3 @@
-# continue, pass, break
 while True:
     angka_tersembunyi = int(input('masukkan angka nya 0 - 77 = '))
 

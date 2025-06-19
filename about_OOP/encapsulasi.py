@@ -1,6 +1,3 @@
-import os
-os.system("cls" if os.name == "nt" else "clear")
-
 class Hero:
     
     def __init__ (self, name, health, power, armor):

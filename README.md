@@ -27,5 +27,5 @@ This repository is intended to:
 
 1. **Clone this repository**:
 ```bash
-git clone https://github.com/lesmana-cpu/learns_python_fundamentals.git
-cd learns_python_fundamentals
+git clone https://github.com/lesmanadarajat/learns_python.git
+cd learns_python

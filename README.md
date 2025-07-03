@@ -1,4 +1,4 @@
-# 📘 learns_python_fundamentals
+# 📘 learns_python
 
 This repository contains a collection of Python basic learning materials. The files cover various fundamental concepts that are discussed step by step.
 

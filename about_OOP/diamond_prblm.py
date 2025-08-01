@@ -1,3 +1,5 @@
+# diamond problem
+
 class X:
     def show(self,name):
         self.name = name

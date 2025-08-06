@@ -1,3 +1,5 @@
+# class abstract & decorator
+
 from abc import ABC, abstractmethod
 
 
@@ -34,4 +36,5 @@ class PushButton(Button):
                 
         
 tombol1 = PushButton("github.com/lesmanadarajat")
+
 tombol1.click()
